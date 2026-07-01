@@ -1,2 +1,2 @@
-# promptwiz
-prompt maker
+# promptforge
+promp builder and knowledge tool
